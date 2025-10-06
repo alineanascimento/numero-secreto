@@ -57,4 +57,3 @@ Este curso proporcionou uma visão prática sobre como:
 
 
 
-**Aline N**
