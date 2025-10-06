@@ -1,4 +1,4 @@
-# 🧠 Curso de Git e GitHub — Alura
+# Git e GitHub: compartilhando e colaborando em projetos
 
 Este repositório faz parte do curso **“Git e GitHub: compartilhando e colaborando em projetos”** da [Alura](https://www.alura.com.br/).  
 Durante o curso, foram aplicados os principais comandos e conceitos de versionamento de código, utilizando como exemplo prático o projeto **Jogo do Número Secreto**, desenvolvido em JavaScript.
